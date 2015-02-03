@@ -1,0 +1,19 @@
+*.pyc
+# .po compiled files
+*.mo
+*~
+*.orig
+# OSX meta files
+.DS_Store
+# Local settings for django
+local_settings.py
+# coverage library configuration
+.coverage
+# Related to Rope vim plugin
+.ropeproject
+*.dat
+Vagrantfile
+data/
+.vagrant/
+.idea/
+*.log
